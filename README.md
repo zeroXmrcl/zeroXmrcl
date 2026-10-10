@@ -3,7 +3,8 @@
 ## What I do
 - Full-stack development (frontend + backend)
 - APIs & databases
-- Side projects & experiments
+- 3D printing
+- Laser production
 - Photo / Video editing
 - DTP & Print Production
 
