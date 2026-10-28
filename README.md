@@ -13,29 +13,6 @@
 
 ---
 
-## 🛠️ Skills & Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,nextjs,nodejs,docker,postgresql,figma,git&theme=dark" />
-</p>
-
-| Area | Focus |
-|------|-------|
-| **Web** | React, TypeScript, Next.js, Python, APIs & Databases |
-| **Making** | 3D Printing, CAD, Laser Production |
-| **Creative** | Photo/Video Editing, DTP & Print |
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeroXmrcl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroXmrcl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="170" />
-</div>
-
----
-
 ## 💻 Current Setup
 
 → [Full details](https://setup.0xmarcel.com)
@@ -47,14 +24,6 @@
 | **RAM** | 64 GB DDR5-6000 |
 | **Displays** | 3× Alienware 27" 4K |
 | **Case** | Fractal North XL |
-
----
-
-## 🚀 Featured Projects
-
-[![GrowCast](https://github-readme-stats.vercel.app/api/pin/?username=zeroXmrcl&repo=GrowCast&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/zeroXmrcl/GrowCast)
-[![HLS-To-Twitch](https://github-readme-stats.vercel.app/api/pin/?username=zeroXmrcl&repo=HLS-To-Twitch&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/zeroXmrcl/HLS-To-Twitch)
-[![spider-farmer-cloud-api](https://github-readme-stats.vercel.app/api/pin/?username=zeroXmrcl&repo=spider-farmer-cloud-api&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/zeroXmrcl/spider-farmer-cloud-api)
 
 ---
 
